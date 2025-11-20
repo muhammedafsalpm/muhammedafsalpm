@@ -29,7 +29,3 @@ Want to connect
 - LinkedIn: https://www.linkedin.com/in/muhammedafsalpm  
 - Kaggle: https://www.kaggle.com/muhammedafsalpm  
 - Email: muhammedafsalpmtech@gmail.com
-
-How to use this file  
-- Create a repo named exactly: muhammedafsalpm and add this README.md to make it your profile README.  
-- Replace placeholder links with actual repo URLs and add badges (build, license, top languages) for the repos you want to highlight.
