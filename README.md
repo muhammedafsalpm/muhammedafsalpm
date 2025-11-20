@@ -8,7 +8,6 @@ Profile
 A concise summary: I build and deploy AI-driven solutions, machine learning models, and autonomous agent platforms. I focus on end-to-end systems — from research and model design to production-grade services and scalable microservices architecture.
 
 Quick facts  
-- Current: Core Team Member – Associate Software Engineer (AI) at Zentis AI / Techvantage Systems  
 - Primary languages & tools: Python, SQL, PyTorch/TensorFlow, Hugging Face, Docker, Kubernetes, CrewAI  
 - Areas: LLMs, Generative AI, RAG, Agentic AI, Microservices, CI/CD for ML
 
