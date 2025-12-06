@@ -25,6 +25,7 @@ Certifications & Publication
 
 Want to connect  
 - GitHub: https://github.com/muhammedafsalpm  
-- LinkedIn: https://www.linkedin.com/in/muhammedafsalpm  
+- LinkedIn: https://www.linkedin.com/in/muhammedafsalpm
+- HuggingFace: https://huggingface.co/muhammed-afsal-p-m
 - Kaggle: https://www.kaggle.com/muhammedafsalpm  
 - Email: muhammedafsalpmtech@gmail.com
