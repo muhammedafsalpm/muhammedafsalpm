@@ -45,31 +45,31 @@ My work spans BFSI, healthcare, compliance, HR tech, and enterprise automation.
   <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"/></a>
 </p>
 
+
 ### **AI / Machine Learning / LLM**
-### **AI / Machine Learning / LLM**
-<p>
-  <a href="https://pytorch.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48"/>
+<p align="left">
+  <a href="https://pytorch.org/" title="PyTorch">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="48" height="48"/>
   </a>
   
-  <a href="https://www.tensorflow.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48"/>
+  <a href="https://www.tensorflow.org/" title="TensorFlow">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="48" height="48"/>
   </a>
   
-  <a href="https://opencv.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48"/>
+  <a href="https://opencv.org/" title="OpenCV">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="48" height="48"/>
   </a>
   
-  <a href="https://huggingface.co/">
-    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48"/>
+  <a href="https://huggingface.co/" title="Hugging Face">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="48" height="48"/>
   </a>
   
-  <a href="https://www.langchain.com/">
-    <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo.svg" width="48"/>
+  <a href="https://www.langchain.com/" title="LangChain">
+    <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo.svg" alt="LangChain" width="48" height="48"/>
   </a>
   
-  <a href="https://www.crewai.com/">
-    <img src="https://raw.githubusercontent.com/crewAIInc/crewAI/main/docs/static/img/crewai-logo.png" width="48"/>
+  <a href="https://www.crewai.com/" title="CrewAI">
+    <img src="https://crewai.io/_next/static/media/crewai-logo.7a9513b9.svg" alt="CrewAI" width="48" height="48"/>
   </a>
 </p>
 
