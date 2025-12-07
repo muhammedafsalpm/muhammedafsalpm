@@ -52,9 +52,8 @@ My work spans BFSI, healthcare, compliance, HR tech, and enterprise automation.
   <a href="https://opencv.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48"/></a>
   <a href="https://huggingface.co/"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48"/></a>
   <a href="https://www.langchain.com/"><img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo.svg" width="48"/></a>
-<a href="https://www.crewai.com/">
-  <img src="https://raw.githubusercontent.com/crewAIInc/crewAI/refs/heads/main/docs/static/img/logo.svg" width="48"/>
-</a>
+  <a href="https://www.crewai.com/">
+  <img src="https://raw.githubusercontent.com/crewAIInc/crewAI/refs/heads/main/docs/static/img/logo.svg" width="48"/></a>
 </p>
 
 ### **Cloud, DevOps & Backend**
