@@ -64,12 +64,8 @@ My work spans BFSI, healthcare, compliance, HR tech, and enterprise automation.
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="48" height="48"/>
   </a>
   
-  <a href="https://www.langchain.com/" title="LangChain">
-    <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo.svg" alt="LangChain" width="48" height="48"/>
-  </a>
-  
   <a href="https://www.crewai.com/" title="CrewAI">
-    <img src="https://crewai.io/_next/static/media/crewai-logo.7a9513b9.svg" alt="CrewAI" width="48" height="48"/>
+    <img src="https://raw.githubusercontent.com/joaomdmoura/crewAI/refs/heads/main/docs/static/img/crewai-logo.png" alt="CrewAI" width="48" height="48"/>
   </a>
 </p>
 
