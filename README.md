@@ -46,15 +46,33 @@ My work spans BFSI, healthcare, compliance, HR tech, and enterprise automation.
 </p>
 
 ### **AI / Machine Learning / LLM**
+### **AI / Machine Learning / LLM**
 <p>
-  <a href="https://pytorch.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48"/></a>
-  <a href="https://www.tensorflow.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48"/></a>
-  <a href="https://opencv.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48"/></a>
-  <a href="https://huggingface.co/"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48"/></a>
-  <a href="https://www.langchain.com/"><img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo.svg" width="48"/></a>
+  <a href="https://pytorch.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48"/>
+  </a>
+  
+  <a href="https://www.tensorflow.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48"/>
+  </a>
+  
+  <a href="https://opencv.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48"/>
+  </a>
+  
+  <a href="https://huggingface.co/">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48"/>
+  </a>
+  
+  <a href="https://www.langchain.com/">
+    <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo.svg" width="48"/>
+  </a>
+  
   <a href="https://www.crewai.com/">
-  <img src="https://raw.githubusercontent.com/crewAIInc/crewAI/refs/heads/main/docs/static/img/logo.svg" width="48"/></a>
+    <img src="https://raw.githubusercontent.com/crewAIInc/crewAI/main/docs/static/img/crewai-logo.png" width="48"/>
+  </a>
 </p>
+
 
 ### **Cloud, DevOps & Backend**
 <p>
