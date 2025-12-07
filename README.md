@@ -16,7 +16,7 @@ I build intelligent platforms powered by large language models, distributed syst
 My work spans BFSI, healthcare, compliance, HR tech, and enterprise automation.
 
 **Key Capabilities:**  
-- LLM **fine-tuning** (LoRA, supervised tuning, system prompts)  
+- LLM **fine-tuning** (LoRA, supervised tuning, system-level prompting)  
 - **RAG** architectures (hybrid search, multi-index retrieval fusion)  
 - **Autonomous agents** (CrewAI, LangChain, custom orchestrators)  
 - End-to-end **ML pipelines** (ETL → training → deployment → monitoring)  
@@ -31,7 +31,7 @@ My work spans BFSI, healthcare, compliance, HR tech, and enterprise automation.
 - **Cloud & DevOps:** AWS (S3 + Lambda), Azure, Docker, Kubernetes, GitHub Actions, RabbitMQ, SonarQube, CI/CD  
 - **Frameworks & Tools:** CrewAI, LangChain, Streamlit, TensorFlow, PyTorch, scikit-learn  
 - **Data Visualization:** Power BI, Tableau  
-- **Other Skills:** Microservices Architecture, Data Engineering, Data Visualization
+- **Other Skills:** Microservices Architecture, Model Optimization, Data Engineering
 
 ---
 
@@ -45,30 +45,27 @@ My work spans BFSI, healthcare, compliance, HR tech, and enterprise automation.
   <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"/></a>
 </p>
 
-
 ### **AI / Machine Learning / LLM**
 <p align="left">
   <a href="https://pytorch.org/" title="PyTorch">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="48" height="48"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48"/>
   </a>
-  
   <a href="https://www.tensorflow.org/" title="TensorFlow">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="48" height="48"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48"/>
   </a>
-  
   <a href="https://opencv.org/" title="OpenCV">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="48" height="48"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48"/>
   </a>
-  
   <a href="https://huggingface.co/" title="Hugging Face">
-    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="48" height="48"/>
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48"/>
   </a>
-  
+  <a href="https://www.langchain.com/" title="LangChain">
+    <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo.svg" width="48"/>
+  </a>
   <a href="https://www.crewai.com/" title="CrewAI">
-    <img src="https://raw.githubusercontent.com/joaomdmoura/crewAI/refs/heads/main/docs/static/img/crewai-logo.png" alt="CrewAI" width="48" height="48"/>
+    <img src="https://raw.githubusercontent.com/joaomdmoura/crewAI/refs/heads/main/docs/static/img/crewai-logo.png" width="48"/>
   </a>
 </p>
-
 
 ### **Cloud, DevOps & Backend**
 <p>
@@ -108,5 +105,22 @@ My work spans BFSI, healthcare, compliance, HR tech, and enterprise automation.
   <a href="mailto:muhammedafsalpmtech@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+<br>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=muhammedafsalpm&color=blue&style=flat-square">
 </p>
+
+---
+
+<p align="center">
+  <i>⭐ Always open to collaboration in LLMs, RAG systems, Agentic AI, and AI Engineering.</i>
+</p>
+
+---
+
+<!-- Optional Contribution Snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muhammedafsalpm/muhammedafsalpm/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
+
