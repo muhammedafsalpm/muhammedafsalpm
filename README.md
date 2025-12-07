@@ -117,7 +117,6 @@ My work spans BFSI, healthcare, compliance, HR tech, and enterprise automation, 
 ### **Publication**
 - **Smart Application for Visually Impaired People**  
   *International Journal of Advanced Research in Innovative Ideas in Education (IJARIIE)*, 2023  
-  *Developed multimodal AI system combining computer vision and NLP for enhanced accessibility*
 
 ---
 
