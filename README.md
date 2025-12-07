@@ -33,15 +33,6 @@ My work spans BFSI, healthcare, compliance, HR tech, and enterprise automation, 
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammedafsalpm&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedafsalpm&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
-</p>
-
----
-
 ## ⚡ Technical Expertise  
 
 ### **AI & Machine Learning**
@@ -176,5 +167,5 @@ My work spans BFSI, healthcare, compliance, HR tech, and enterprise automation, 
 </p>
 
 <p align="center">
-  <small>© 2024 Muhammed Afsal P M • Last Updated: November 2024</small>
+  <small>© 2025 Muhammed Afsal P M • Last Updated: December 2025</small>
 </p>
