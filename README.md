@@ -4,7 +4,7 @@
 <p align="center">
   Kochi, Kerala, India • <a href="mailto:muhammedafsalpmtech@gmail.com">muhammedafsalpmtech@gmail.com</a>  
   <br>
-  <strong>Designing and deploying production-grade AI systems — from research & LLM fine-tuning to scalable microservices.</strong>
+  <strong>Designing and deploying production-grade AI systems — from LLM research & fine-tuning to scalable microservices.</strong>
 </p>
 
 ---
@@ -16,23 +16,22 @@ I build intelligent platforms powered by large language models, distributed syst
 My work spans BFSI, healthcare, compliance, HR tech, and enterprise automation.
 
 **Key Capabilities:**  
-- LLM **fine-tuning**, LoRA, inference optimization  
-- Enterprise-grade **RAG** systems (multi-index + retrieval fusion)  
+- LLM **fine-tuning** (LoRA, supervised tuning, system prompts)  
+- **RAG** architectures (hybrid search, multi-index retrieval fusion)  
 - **Autonomous agents** (CrewAI, LangChain, custom orchestrators)  
-- End-to-end **ML pipelines** (training → deployment → monitoring)  
-- **MLOps** & scalable APIs using FastAPI, Docker, Kubernetes  
-- Cloud-native architectures (AWS, Azure, CI/CD, observability)
+- End-to-end **ML pipelines** (ETL → training → deployment → monitoring)  
+- **MLOps** using FastAPI, Docker, Kubernetes, CI/CD  
+- Cloud-native architectures (AWS, Azure)
 
 ---
 
 ## ⚡ Professional Summary  
-
 - **AI & ML:** LLMs, Generative AI, RAG, LLM fine-tuning, classical ML  
 - **Programming & Databases:** Python, FastAPI, SQL, MongoDB, MySQL, PostgreSQL, SQLite, ChromaDB  
 - **Cloud & DevOps:** AWS (S3 + Lambda), Azure, Docker, Kubernetes, GitHub Actions, RabbitMQ, SonarQube, CI/CD  
 - **Frameworks & Tools:** CrewAI, LangChain, Streamlit, TensorFlow, PyTorch, scikit-learn  
 - **Data Visualization:** Power BI, Tableau  
-- **Other Skills:** Microservices Architecture, Model Optimization, Data Engineering
+- **Other Skills:** Microservices Architecture, Data Engineering, Data Visualization
 
 ---
 
@@ -53,7 +52,7 @@ My work spans BFSI, healthcare, compliance, HR tech, and enterprise automation.
   <a href="https://opencv.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48"/></a>
   <a href="https://huggingface.co/"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48"/></a>
   <a href="https://www.langchain.com/"><img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo.svg" width="48"/></a>
-  <a href="https://www.crewai.com/"><img src="https://raw.githubusercontent.com/crewAIInc/crewAI/main/docs/static/img/logo.png" width="48"/></a>
+  <a href="https://www.crewai.com/"><img src="https://raw.githubusercontent.com/crewAIInc/crewAI/main/docs/static/img/crewai-logo.png" width="48"/></a>
 </p>
 
 ### **Cloud, DevOps & Backend**
@@ -85,41 +84,6 @@ My work spans BFSI, healthcare, compliance, HR tech, and enterprise automation.
 
 ---
 
-# 💼 Work Experience  
-
-### **Techvantage Systems Pvt. Ltd — Associate Software Engineer (AI)**  
-📅 *Dec 2024 – Present*  
-- Built **multi-agent AI systems** using CrewAI & LLMs (GPT-4, Groq, Llama).  
-- Developed RAG pipelines with ChromaDB & hybrid retrieval.  
-- Engineered enterprise AI platforms across BFSI, audit, and HR domains.  
-- Built CV pipelines using **YOLO + DeepSORT** + LLM-based reporting.  
-- Delivered microservices using FastAPI, Docker, SQL/NoSQL, AWS/Azure.
-
-### **Zentis AI — Core Team (AI Engineer)**  
-📅 *May 2025 – Oct 2025*  
-- Designed autonomous agent orchestration engines for enterprise workflows.  
-- Implemented containerized microservices using FastAPI + RabbitMQ + K8s.  
-- Built CI/CD, monitoring, and code-quality pipelines with SonarQube.
-
-### **BPCL Kochi Refinery — Graduate Apprentice (CS)**  
-📅 *Dec 2023 – Dec 2024*  
-- Conducted data analytics using SQL/MySQL & statistical modeling.  
-- Built ML models for prediction and refinery insights.  
-- Developed dashboards using **Power BI** and **Tableau**.
-
----
-
-# 🧩 Featured Projects  
-- **Zentis.ai** — Enterprise AI Automation Platform (multi-agent orchestration)  
-- **AI Agents for Banking Loan Processing**  
-- **Recruitment Intelligence Platform**  
-- **Vision + LLM Object Detection System (YOLO + DeepSORT + GPT)**  
-- **Fraud / Churn / Cancer Prediction Models**  
-- **Contract Intelligence Engine** (FastAPI + LLMs + ChromaDB + MongoDB)  
-- **HR AI Chatbot** (agents + classification + LLM reasoning)
-
----
-
 # 🌐 Connect with Me  
 <p>
   <a href="https://github.com/muhammedafsalpm"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -129,14 +93,5 @@ My work spans BFSI, healthcare, compliance, HR tech, and enterprise automation.
   <a href="mailto:muhammedafsalpmtech@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
-
-## 📊 GitHub Analytics  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muhammedafsalpm&show_icons=true&theme=tokyonight"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedafsalpm&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=muhammedafsalpm&color=blue&style=flat-square">
 </p>
