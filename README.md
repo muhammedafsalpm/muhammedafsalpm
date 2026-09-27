@@ -18,7 +18,7 @@
 ---
 
 ## 🚀 About Me  
-AI Engineer specializing in **LLMs, Generative AI, RAG systems, and Autonomous Multi-Agent architectures**.  
+AI Engineer specializing in **LLMs, Generative AI, RAG systems, Local LLMs and Autonomous Orchestrator Multi-Agent architectures**.  
 I build intelligent platforms powered by large language models, distributed systems, and high-performance inference pipelines.
 
 My work spans BFSI, healthcare, compliance, HR tech, and enterprise automation, delivering **scalable AI solutions** that drive business value.
@@ -26,7 +26,7 @@ My work spans BFSI, healthcare, compliance, HR tech, and enterprise automation, 
 **Key Capabilities:**  
 - **LLM Engineering**: Fine-tuning (LoRA, QLoRA), system-level prompting, model optimization  
 - **RAG Architectures**: Hybrid search, multi-index retrieval, query optimization  
-- **Autonomous Agents**: CrewAI orchestrations, LangChain workflows, multi-agent systems  
+- **Autonomous Agents**: LangGraph, CrewAI orchestrations, LangChain workflows, multi-agent systems  
 - **MLOps & Deployment**: End-to-end pipelines, FastAPI microservices, Docker/Kubernetes  
 - **Cloud Infrastructure**: AWS (S3, Lambda, SageMaker), Azure ML, scalable architectures  
 - **Performance Optimization**: High-throughput inference, latency reduction, cost optimization
@@ -38,7 +38,7 @@ My work spans BFSI, healthcare, compliance, HR tech, and enterprise automation, 
 ### **AI & Machine Learning**
 **LLMs & Generative AI**: Fine-tuning, RAG systems, Prompt Engineering, Multi-Agent Systems  
 **Classical ML**: Supervised/Unsupervised Learning, Time Series, Computer Vision  
-**Frameworks**: PyTorch, TensorFlow, Hugging Face, LangChain, CrewAI, scikit-learn  
+**Frameworks**: PyTorch, TensorFlow, Hugging Face, LangChain, LangGraph, CrewAI, scikit-learn  
 
 ### **Programming & Development**
 **Languages**: Python, SQL, Bash  
