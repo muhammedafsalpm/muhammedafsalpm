@@ -1,6 +1,6 @@
 <h1 align="center">👋 MUHAMMED AFSAL P M</h1>
 
-<h3 align="center">Agentic AI Engineer • LLMs • Multi-Agent Systems • RAG • On-Premise LLMs</h3>
+<h3 align="center">Agentic AI Engineer • Multi-Agent Systems • NL-to-SQL • RAG • MCP • On-Premise LLMs</h3>
 
 <p align="center">
   <a href="https://muhammed-afsal-p-m.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-muhammed--afsal--p--m.vercel.app-0679B8?logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -11,36 +11,36 @@
 </p>
 
 <p align="center">
-  <strong>📍 Kochi, Keralam, India</strong> •
+  <strong>📍 Kochi, Kerala, India</strong> •
   <a href="mailto:muhammedafsalpmtech@gmail.com">📧 muhammedafsalpmtech@gmail.com</a> •
   <a href="https://www.linkedin.com/in/muhammedafsalpm">💼 LinkedIn</a> •
   <a href="https://muhammed-afsal-p-m.vercel.app/">🌐 Portfolio</a>
 </p>
 
 <p align="center">
-  <strong>Designing and deploying production-grade AI systems — from multi-agent orchestration and RAG to fine-tuned and on-premise LLMs.</strong>
+  <strong>Designing and deploying production-grade agentic AI — multi-agent orchestration, NL-to-SQL assistants, document intelligence, MCP servers and real-time voice AI.</strong>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-Agentic AI Engineer with **3+ years of hands-on experience in AI**, currently at **NGXP Technologies**. I specialize in **agentic AI, multi-agent orchestration, LLM applications, RAG systems and on-premise (local) LLMs**.
+Agentic AI Engineer at **NGXP Technologies LLP** with **3+ years of experience** designing and deploying production-grade **agentic AI systems, multi-agent orchestration platforms, NL-to-SQL assistants, document intelligence platforms and computer vision solutions**.
 
-I build intelligent platforms — AI chatbots, real-time voice agents, NL-to-SQL database assistants and document intelligence — powered by large language models, vision-language models and scalable microservices.
+I work with **LangGraph, LangChain and CrewAI** multi-agent workflows, **Retrieval-Augmented Generation (RAG)**, **Model Context Protocol (MCP)** servers, LLM tool calling and **vision-language models (VLMs)** — using OpenAI models and locally hosted open-source LLMs (**Qwen, Llama**) via **Ollama**. I also build real-time voice and chat AI systems with speech-to-text (STT) and text-to-speech (TTS), backed by FastAPI microservices, vector databases and SQL/NoSQL databases.
 
-My work spans **BFSI, healthcare, oil & gas, compliance, HR tech and enterprise automation**, delivering cost-effective AI solutions that drive business value without compromising accuracy.
+My work spans **oil & gas, BFSI, healthcare, e-commerce & affiliate marketing (AdTech) and enterprise automation**, supported by LLMOps practices — Langfuse tracing and evaluation, Drone CI/CD, Docker and Kubernetes on AWS and Azure.
 
 ### Key Capabilities
 
-- **Agentic AI & Orchestration** — LangGraph, CrewAI and LangChain multi-agent workflows, tool / function calling, Model Context Protocol (MCP)
-- **LLM Engineering** — Fine-tuning Llama 3.1 8B with LoRA / QLoRA on GPU, prompt engineering, model optimization
-- **RAG Architectures** — Hybrid search, multi-index retrieval and query optimization over Qdrant, ChromaDB and FAISS
-- **NL-to-SQL Assistants** — LangGraph agents that turn natural language into validated SQL over MySQL Server
-- **On-Premise LLMs** — Local LLMs and vision-language models (VLMs) served with Ollama for private, cost-effective inference
+- **Multi-Agent Orchestration** — LangGraph supervisor agents that plan, run steps in parallel, re-plan on failure and route sensitive actions through human-in-the-loop (HITL) approvals with policy guardrails
+- **NL-to-SQL Assistants** — LangGraph agents that turn business questions into accurate SQL over enterprise databases, with voice interaction (STT + Piper TTS)
+- **MCP & Tool Calling** — Model Context Protocol servers that expose REST APIs as LLM tools for ChatGPT, Claude and other AI clients
+- **RAG & Document Intelligence** — Enterprise RAG with RAGFlow, Qdrant, ChromaDB and FAISS, plus persistent agent memory with Supermemory
+- **On-Premise LLMs & VLMs** — Qwen, Llama, Qwen3-VL and LLaVA served with Ollama for private, cost-effective inference
 - **Voice & Conversational AI** — Real-time voice agents and chatbots with LiveKit, Twilio, STT / TTS and multilingual support
-- **LLM Observability** — Tracing, evaluation, latency and cost monitoring with Langfuse
-- **MLOps & Deployment** — End-to-end pipelines, FastAPI microservices, Docker / Kubernetes, CI/CD on AWS and Azure
+- **LLM Engineering** — Fine-tuning Llama 3.1 8B with LoRA / QLoRA on GPU, prompt engineering, embeddings
+- **LLMOps & Deployment** — Langfuse tracing and evaluation, FastAPI microservices, Docker / Docker Compose / Kubernetes, Drone CI and GitHub Actions on AWS and Azure
 
 ---
 
@@ -48,43 +48,46 @@ My work spans **BFSI, healthcare, oil & gas, compliance, HR tech and enterprise 
 
 | Role | Company | Period |
 | :--- | :--- | :--- |
-| **Agentic AI Engineer** | NGXP Technologies · Kochi, Keralam | Jun 2026 – Present |
-| **Associate Software Engineer (AI)** | Techvantage Systems Pvt. Ltd · Trivandrum, Keralam | Dec 2024 – Apr 2026 |
-| ↳ Core Team Member | Zentis AI · startup under Techvantage | May 2025 – Oct 2025 |
-| ↳ Core Team Member | Go-Do · product under Techvantage | Dec 2025 – Feb 2026 |
-| **AI Engineer (Apprenticeship)** | Bharat Petroleum Corporation Limited · Kochi Refinery, Keralam | Dec 2023 – Dec 2024 |
+| **Agentic AI Engineer** | NGXP Technologies LLP · Kochi, Kerala | Jun 2026 – Present |
+| **Integration & Automation Engineer** | Parity Cube Private Limited · Mumbai, Maharashtra | Apr 2026 – May 2026 |
+| **Associate Software Engineer (AI)** | Techvantage Systems Pvt. Ltd · Trivandrum, Kerala | Dec 2024 – Apr 2026 |
+| ↳ Core Team Member | Go-Do · startup incubated within Techvantage | Dec 2025 – Feb 2026 |
+| ↳ Core Team Member | Zentis AI · startup incubated within Techvantage | May 2025 – Oct 2025 |
+| **AI Engineer (Apprenticeship)** | Bharat Petroleum Corporation Limited · Kochi Refinery, Kerala | Dec 2023 – Dec 2024 |
 
 ---
 
 ## ⚡ Technical Expertise
 
-### 🤖 AI & Machine Learning
+### 🤖 Generative AI & Agentic AI
 
-- **Agentic AI:** Multi-Agent Systems, LangGraph, CrewAI, LangChain, MCP (Model Context Protocol), Tool / Function Calling
-- **LLMs & Generative AI:** GPT-4, Azure OpenAI, Gemini, Llama 3.1, Groq, Sarvam, Fine-tuning (LoRA, QLoRA), RAG, NL-to-SQL, Prompt Engineering
-- **On-Premise & Multimodal:** Ollama, Local LLMs, Vision-Language Models (VLMs), STT / TTS, Voice Agents
-- **LLM Observability:** Langfuse — tracing, evaluation, cost and latency monitoring
-- **Classical ML & CV:** Supervised / Unsupervised Learning, Time Series, Computer Vision (YOLO, DeepSORT, OpenCV)
-- **Frameworks:** PyTorch, TensorFlow, Hugging Face Transformers, scikit-learn, Streamlit
+- **Generative AI & LLMs:** LLMs, Generative AI, Agentic AI, Multi-Agent Systems, RAG, NL-to-SQL, LLM Fine-tuning (LoRA, QLoRA), LLM Tool Calling, Model Context Protocol (MCP), Human-in-the-Loop (HITL), Prompt Engineering, Embeddings
+- **Models & Platforms:** OpenAI (GPT-4), Qwen, Llama, Gemini, Groq, Azure OpenAI, Sarvam, Ollama (Local LLMs), Vision-Language Models (Qwen3-VL, LLaVA), Hugging Face Transformers
+- **Frameworks & LLMOps:** LangGraph, LangChain, CrewAI, RAGFlow, Langfuse, Supermemory, OpenAI API, Streamlit
 
-### 💻 Programming & Development
+### 🧠 ML, Vision & Speech
+
+- **Machine Learning:** scikit-learn, TensorFlow, PyTorch, Supervised / Unsupervised Learning, Time Series
+- **Computer Vision:** YOLO, DeepSORT, OpenCV, Vision-Language Models
+- **Speech & Voice:** Speech-to-Text (STT), Piper TTS, LiveKit, Twilio (WhatsApp API)
+
+### 💻 Programming & Databases
 
 - **Languages:** Python, SQL, Bash
-- **Backend:** FastAPI, REST APIs, Microservices, Async Programming, Celery
-- **Databases:** MongoDB, MySQL Server, PostgreSQL, SQLite, Redis
+- **Backend:** FastAPI, REST APIs, Microservices, API Integration, Async Programming, Celery
+- **Databases:** PostgreSQL, MySQL, MongoDB, SQLite, Redis
 - **Vector Databases:** Qdrant, ChromaDB, FAISS
-- **Voice & Messaging:** LiveKit, Twilio (WhatsApp API)
 
 ### ☁️ Cloud & DevOps
 
 - **Cloud Platforms:** AWS (S3, Lambda, EC2, SageMaker), Azure (ML Studio, Azure OpenAI, Databricks)
 - **Containerization:** Docker, Docker Compose, Kubernetes, Helm
-- **CI/CD & Quality:** GitHub Actions, GitLab CI, SonarQube, Automated Testing, Deployment Pipelines
-- **Infrastructure:** RabbitMQ, Redis, Linux, Nginx, Load Balancing, Monitoring
+- **CI/CD & Quality:** Drone CI, GitHub Actions, GitLab CI, SonarQube, Automated Testing
+- **Infrastructure:** RabbitMQ, Redis, Linux, Nginx, Monitoring
 
 ### 📊 Data Engineering & Visualization
 
-- **Data Processing:** ETL Pipelines, Data Warehousing, Big Data
+- **Data Processing:** Data Engineering, ETL Pipelines, Data Warehousing
 - **Visualization:** Power BI, Tableau, Plotly, Matplotlib, Seaborn
 - **BI Tools:** Dashboard Creation, KPI Tracking, Business Reporting
 
@@ -99,29 +102,38 @@ My work spans **BFSI, healthcare, oil & gas, compliance, HR tech and enterprise 
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge" alt="CrewAI" />
   <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/Langfuse-0A60FF?style=for-the-badge" alt="Langfuse" />
+  <img src="https://img.shields.io/badge/HITL-0679B8?style=for-the-badge" alt="Human-in-the-Loop" />
   <img src="https://img.shields.io/badge/NL--to--SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="NL-to-SQL" />
   <img src="https://img.shields.io/badge/RAG-0679B8?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/RAGFlow-1E40AF?style=for-the-badge" alt="RAGFlow" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge" alt="Azure OpenAI" />
+  <img src="https://img.shields.io/badge/Qwen-615CED?style=for-the-badge&logo=qwen&logoColor=white" alt="Qwen" />
+  <img src="https://img.shields.io/badge/Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Llama" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Llama%203.1-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Llama 3.1" />
   <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" alt="Groq" />
-  <img src="https://img.shields.io/badge/LoRA%20%2F%20QLoRA-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="LoRA / QLoRA" />
+  <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge" alt="Azure OpenAI" />
   <img src="https://img.shields.io/badge/VLMs-5A4FCF?style=for-the-badge" alt="Vision-Language Models" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Langfuse-0A60FF?style=for-the-badge" alt="Langfuse" />
+  <img src="https://img.shields.io/badge/Supermemory-111827?style=for-the-badge" alt="Supermemory" />
+  <img src="https://img.shields.io/badge/LoRA%20%2F%20QLoRA-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="LoRA / QLoRA" />
   <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
   <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge" alt="ChromaDB" />
   <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" alt="FAISS" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/LiveKit-1F1F1F?style=for-the-badge&logo=livekit&logoColor=white" alt="LiveKit" />
   <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio" />
+  <img src="https://img.shields.io/badge/Piper%20TTS-2E7D32?style=for-the-badge" alt="Piper TTS" />
   <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
+  <img src="https://img.shields.io/badge/Drone%20CI-212121?style=for-the-badge&logo=drone&logoColor=white" alt="Drone CI" />
 </p>
 
 ### Programming & Databases
@@ -130,8 +142,8 @@ My work spans **BFSI, healthcare, oil & gas, compliance, HR tech and enterprise 
   <a href="https://www.python.org/" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" /></a>
   <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" /></a>
   <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" /></a>
-  <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" /></a>
   <a href="https://www.mysql.com/" title="MySQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" /></a>
+  <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" /></a>
   <a href="https://www.sqlite.org/" title="SQLite"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" /></a>
   <a href="https://redis.io/" title="Redis"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" /></a>
 </p>
@@ -175,19 +187,25 @@ My work spans **BFSI, healthcare, oil & gas, compliance, HR tech and enterprise 
 
 ### Agentic AI & LLM Platforms
 
-- **AI Database Assistant (NL-to-SQL)** — Ask questions in plain English and get answers from MySQL Server. LangGraph agents generate, validate and run SQL on local LLMs via Ollama, with Langfuse tracing every step. Fully on-premise and cost-effective.
-- **Zentis.ai – Agentic AI Platform** — Enterprise AI orchestration platform using autonomous CrewAI agents, RAG and microservices across BFSI, healthcare and compliance.
-- **Go-Do – Multilingual Agentic AI Concierge** — Voice and WhatsApp AI agents (LiveKit, Twilio, STT / TTS) with RAG and tool-calling for real-time task execution in multiple Indian languages.
-- **Llama 3.1 8B Fine-tuning** — Parameter-efficient fine-tuning on GPU with LoRA and 4-bit QLoRA for domain-specific tasks.
+- **Oil & Gas Operations Intelligence Platform** — AI platform with an NL-to-SQL assistant built on LangGraph, local LLMs (Qwen via Ollama) and OpenAI models, with STT / Piper TTS voice interaction, well-monitoring anomaly detection, crew management, daily reporting and Langfuse tracing.
+- **Multi-Agent Orchestrator Platform** — LangGraph supervisor agent that plans tasks across specialized agents (web search, communication, verifier), runs steps in parallel, re-plans on failure and routes sensitive actions through human-in-the-loop approvals with code-enforced policy guardrails.
+- **Document Intelligence Platform** — Enterprise RAG platform using RAGFlow, vector databases and local LLMs (Qwen 35B via Ollama) alongside OpenAI models, with Langfuse tracing and evaluation, Supermemory agent memory and Drone CI/CD.
+- **Driver Safety Monitoring** — Real-time system combining on-device detection with vision-language models (Qwen3-VL 8B, LLaVA 7B) on self-hosted Ollama to verify phone use, smoking, eating, drinking and seatbelt violations, with structured JSON outputs and confidence-tiered alerts.
+- **MCP Server for Cuelinks** — Model Context Protocol server exposing an affiliate marketing platform's REST APIs as LLM tools for natural-language use through ChatGPT, Claude and other AI clients.
+- **Agentic Competitor Intelligence Platform** — LangGraph, FastAPI, OpenAI and Docker platform integrating affiliate network APIs for cross-platform product discovery and comparison of availability, offers and pricing.
 - **[Publisher Website Classifier](https://github.com/muhammedafsalpm/Intelligent-Publisher-Website-Classifier)** — LLM-powered publisher vetting microservice with RAG (ChromaDB + sentence-transformers), dual-provider OpenAI / Ollama architecture and tiered web scraping.
+- **Go-Do – Multilingual Agentic AI Concierge** — Voice and WhatsApp AI agents (LiveKit, Twilio, STT / TTS) with FAISS-based RAG and tool-calling for real-time task execution in multiple Indian languages.
+- **Zentis.ai – Agentic AI Platform** — Microservices-based AI orchestration platform using CrewAI agents, RAG and vector search across BFSI, healthcare and manufacturing.
+- **Llama 3.1 8B Fine-tuning** — Parameter-efficient fine-tuning on GPU with LoRA and 4-bit QLoRA for domain-specific tasks.
 
 ### Enterprise AI Solutions
 
-- **Financial Compliance Agent** — Multi-agent system for automated regulatory compliance using RAG and CrewAI.
+- **Contract Management Tool** — Compliance checks, risk assessment, clause detection and a contract Q&A chatbot with multi-format document support (FastAPI, Groq, ChromaDB, MongoDB).
 - **AI Agents for Banking Loan Processing** — Automated loan verification, eligibility checks and decision-making workflows.
-- **Contract Management Tool** — Compliance checks, risk assessment, clause detection and a contract Q&A chatbot (FastAPI, Groq, ChromaDB, MongoDB).
+- **AI-Powered Recruitment Platform** — Resume shortlisting, test scheduling, AI-generated questions and candidate analytics with MongoDB.
+- **AI Chatbot for HR & Operations** — Agent-based intent classification and LLMs for contextual responses.
+- **Financial Compliance Agent** — Multi-agent system for automated regulatory compliance using RAG and CrewAI.
 - **Healthcare RAG Platform** — HIPAA-compliant medical knowledge retrieval with hybrid search.
-- **HR Automation Suite** — LLM-powered recruitment, onboarding, adaptive testing and employee engagement platform.
 - **Real-time Fraud Detection** — ML pipeline for financial transaction monitoring and anomaly detection.
 
 ### Open Source Contributions
@@ -241,7 +259,7 @@ My work spans **BFSI, healthcare, oil & gas, compliance, HR tech and enterprise 
 ---
 
 <p align="center">
-  <i>⭐ Always open to collaboration in Agentic AI, Multi-Agent Systems, RAG, Voice Agents, On-Premise LLMs and AI Engineering.</i>
+  <i>⭐ Always open to collaboration in Agentic AI, Multi-Agent Systems, NL-to-SQL, RAG, MCP, Voice Agents and On-Premise LLMs.</i>
 </p>
 
 <p align="center">
@@ -249,5 +267,5 @@ My work spans **BFSI, healthcare, oil & gas, compliance, HR tech and enterprise 
 </p>
 
 <p align="center">
-  <small>© 2026 Muhammed Afsal P M • Last Updated: September 2026</small>
+  <small>© 2026 Muhammed Afsal P M • Last Updated: November 2026</small>
 </p>
