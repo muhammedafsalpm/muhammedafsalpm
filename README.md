@@ -185,6 +185,11 @@ My work spans **oil & gas, BFSI, healthcare, e-commerce & affiliate marketing (A
 
 ## 🏆 Featured Projects
 
+### ⭐ Open Source
+
+**[NL2SQL Agent](https://github.com/muhammedafsalpm/nl2sql-agent)** — multi-agent Text-to-SQL assistant for Microsoft SQL Server, built on LangGraph. Plans, writes and verifies read-only T-SQL, draws charts, exports to Excel/Word, with optional voice. Works with OpenAI, OpenAI-compatible servers or local LLMs via Ollama.
+[![GitHub stars](https://img.shields.io/github/stars/muhammedafsalpm/nl2sql-agent?style=social)](https://github.com/muhammedafsalpm/nl2sql-agent)
+
 ### Agentic AI & LLM Platforms
 
 - **Oil & Gas Operations Intelligence Platform** — AI platform with an NL-to-SQL assistant built on LangGraph, local LLMs (Qwen via Ollama) and OpenAI models, with STT / Piper TTS voice interaction, well-monitoring anomaly detection, crew management, daily reporting and Langfuse tracing.
@@ -208,11 +213,14 @@ My work spans **oil & gas, BFSI, healthcare, e-commerce & affiliate marketing (A
 - **Healthcare RAG Platform** — HIPAA-compliant medical knowledge retrieval with hybrid search.
 - **Real-time Fraud Detection** — ML pipeline for financial transaction monitoring and anomaly detection.
 
-### Open Source Contributions
+### More Open-Source Projects
 
-- **LLM Optimization Tools** — Contributed to model compression and inference optimization libraries.
-- **RAG Implementations** — Developed and shared custom RAG architectures on GitHub.
-- **Agent Frameworks** — Built reusable components for multi-agent orchestration.
+- **[Qwen3.8-27B GGUF Quantization](https://github.com/muhammedafsalpm/qwen3.8-27b-gguf-quantization)** — Reproducible GGUF quantization pipeline with imatrix, KL-divergence evaluation and thinking, tool-calling and vision tests.
+- **[AI Launch Decision System](https://github.com/muhammedafsalpm/ai-launch-decision-system)** — Multi-agent "war room" where Data Analyst, Marketing, PM and Risk agents analyse metrics and user feedback to reach a structured launch decision.
+- **[Conversational Recommender (CRS)](https://github.com/muhammedafsalpm/seez-crs-llm)** — Movie recommender on the LLM-Redial dataset with few-shot and RAG approaches, FastAPI and streaming.
+- **[RAG Research Assistant](https://github.com/muhammedafsalpm/rag-research-assistant)** — Document Q&A with FastAPI, ChromaDB, MongoDB and a Streamlit UI.
+- **[LLM Email Assistant & Evaluation](https://github.com/muhammedafsalpm/llm-email-assistant-evaluation)** — LLM email generation with prompt engineering and a custom evaluation framework for model comparison.
+- **[LLM Fine-tuning](https://github.com/muhammedafsalpm/llm_finetuning)** — Unsloth-based scripts and notebooks for efficient LLM fine-tuning.
 
 ---
 
