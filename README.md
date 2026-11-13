@@ -162,7 +162,7 @@ My work spans **oil & gas, BFSI, healthcare, e-commerce & affiliate marketing (A
 ### Cloud, DevOps & Backend
 
 <p align="center">
-  <a href="https://aws.amazon.com/" title="AWS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" /></a>
+  <a href="https://aws.amazon.com/" title="AWS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" /></a>
   <a href="https://azure.microsoft.com/" title="Azure"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" /></a>
   <a href="https://www.docker.com/" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" /></a>
   <a href="https://kubernetes.io/" title="Kubernetes"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" /></a>
